@@ -1,0 +1,25 @@
+.chat-messages1 > row
+{
+padding-top:10vw;
+
+}
+.container
+{
+	background-color: #F5F7FA;
+}
+.contact-dp
+{
+
+border-radius:50%;
+}
+.img-circle
+{
+	height:90 auto;
+	width:120 auto;
+}
+.nav-brand > a
+
+{
+text-align: center;
+
+}

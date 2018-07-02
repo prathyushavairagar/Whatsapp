@@ -1,0 +1,65 @@
+.chat-messages1 > row
+{
+padding-top:10vw;
+
+}
+.container
+{
+	background-color: #F5F7FA;
+}
+.contact-dp
+{
+
+border-radius:50%;
+}
+.img-circle
+{
+	height:90 auto;
+	width:120 auto;
+}
+.badge
+{
+	color:white;
+	font-weight:bold;
+	
+}
+.contact-boxes
+{
+	padding-top:10vw;
+	position:relative;
+	display:flex;
+}
+
+.contact-name
+{
+	color:black;
+}
+
+.cont
+{
+	color:grey;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+    background-color: slategray;
+}
+
+.navbar-inverse .navbar-toggle{
+	border-color:black;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar
+{
+	background-color: #ccc;
+}
+
+
+
+
+
+
+
+
+
+
